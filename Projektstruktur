@@ -1,0 +1,17 @@
+participant-check/
+├── pages/
+│   ├── index.js
+│   ├── admin.js
+│   └── api/
+│       ├── vote.js
+│       ├── total.js
+│       └── admin.js
+├── db/
+│   └── data.json
+├── styles/
+│   └── globals.css
+├── .env.example
+├── package.json
+├── README.md
+├── tailwind.config.js
+└── postcss.config.js
