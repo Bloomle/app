@@ -46,19 +46,19 @@ export default function Home() {
             className="px-6 py-3 bg-blue-500 text-white rounded hover:bg-blue-600"
             onClick={() => handleVote(1)}
           >
-            I’m coming alone
+            Ich bringe eine Person mit
           </button>
           <button
             className="px-6 py-3 bg-blue-500 text-white rounded hover:bg-blue-600"
             onClick={() => handleVote(2)}
           >
-            We’re coming as two
+            Ich bringe 2 Personen mit
           </button>
           <button
             className="px-6 py-3 bg-blue-500 text-white rounded hover:bg-blue-600"
             onClick={() => handleVote(3)}
           >
-            We’re coming as three
+            Ich bringe 3 Personen mit
           </button>
         </div>
       )}
