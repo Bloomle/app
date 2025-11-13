@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import "../styles/globals.css";
 
 export default function Home() {
   const [total, setTotal] = useState(0);
